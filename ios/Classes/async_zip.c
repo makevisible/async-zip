@@ -37,7 +37,7 @@
 #endif
 
 #include "miniz.h"
-#include "zip.h"
+#include "async_zip.h"
 
 #ifdef _MSC_VER
 #include <io.h>

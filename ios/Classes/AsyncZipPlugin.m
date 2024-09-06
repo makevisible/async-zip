@@ -1,5 +1,5 @@
 #import "AsyncZipPlugin.h"
-#include "zip.h"
+#include "async_zip.h"
 
 @implementation AsyncZipPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
