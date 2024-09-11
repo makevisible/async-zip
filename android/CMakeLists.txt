@@ -7,7 +7,7 @@ add_library(
     SHARED
 
     # Provides a relative path to your source file(s).
-    ../ios/Classes/zip.c)
+    ../ios/Classes/async_zip.c)
 
 #find_library(
 #    log-lib
